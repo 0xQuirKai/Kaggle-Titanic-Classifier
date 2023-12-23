@@ -19,7 +19,7 @@
 
 ## Instructions
 
-1. Explore the Jupyter Notebook (`Titanic_Neural_Network.ipynb`) for detailed code and analysis.
+1. Explore the Jupyter Notebook (`titanic_kaggel.ipynb`) for detailed code and analysis.
 2. Experiment with neural network architecture, layers, and activation functions.
 3. Use the provided CSV files for Kaggle competition submissions.
 4. Feel free to contribute or fork for further enhancements.
